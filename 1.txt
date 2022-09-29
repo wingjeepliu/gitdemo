@@ -1,7 +1,5 @@
 1
 aaaa
 bbb
-ccc
-ib
-ab
-aa
+how are you doing
+aaa
